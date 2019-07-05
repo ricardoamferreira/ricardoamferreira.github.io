@@ -16,4 +16,4 @@ The notebook can be found here [GitHub Notebook](https://github.com/ricardoamfer
 
 A quick EDA and statistical analysis in a kaggle dataset contaning marks secured by the students in various subjects. The main objective of this analysis was to understand which factors could affect these grades. 
 
-The notebook can be found here [GitHub Notebook](https://github.com/ricardoamferreira/ricardoferreira.github.io/blob/master/Notebooks/students-performance-in-exams-quick-eda.ipynb). The kaggle page can be found [here](https://www.kaggle.com/spscientist/students-performance-in-exams).
+The notebook can be found here [GitHub Notebook](https://github.com/ricardoamferreira/ricardoferreira.github.io/blob/master/Notebooks/students-performance-in-exams-quick-eda.ipynb) or here [nbviewer](https://nbviewer.jupyter.org/github/ricardoamferreira/ricardoamferreira.github.io/blob/master/Notebooks/students-performance-in-exams-quick-eda.ipynb). The kaggle page can be found [here](https://www.kaggle.com/spscientist/students-performance-in-exams).
