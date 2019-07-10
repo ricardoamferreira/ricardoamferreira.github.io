@@ -21,7 +21,6 @@ The notebook can be found here [GitHub Notebook](https://github.com/ricardoamfer
 
 
 ### Zomato Bangalore Restaurants
-#### In progress
 
 This work will consist in a EDA and a Regression Task using a kaggle dataset containing information about restaurants in Bangalore. The main objective of this analysis was to understand which factors could affect the rate of a restaurant and if this can be predicted within a small margin of error.
 
