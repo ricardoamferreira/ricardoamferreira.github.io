@@ -10,6 +10,19 @@ The objective of this work was to develop machine learning methods (Support Vect
 The notebook can be found here [GitHub Notebook](https://github.com/ricardoamferreira/Predicting-Adverse-Drug-Reactions-with-Machine-Learning/blob/master/Predicting%20Adverse%20Drug%20Reactions%20With%20Machine%20Learning.ipynb) or here [nbviewer](https://nbviewer.jupyter.org/github/ricardoamferreira/Predicting-Adverse-Drug-Reactions-with-Machine-Learning/blob/master/Predicting%20Adverse%20Drug%20Reactions%20With%20Machine%20Learning.ipynb). The code can be found here [GitHub Code](https://github.com/ricardoamferreira/Predicting-Adverse-Drug-Reactions-with-Machine-Learning).
 
 
+## Kaggle Competitions
+
+### Kannada MNIST
+
+**Placement: 109/1214, Top 9%**
+
+The goal of this competition was to provide a simple extension to the classic MNIST competition. Instead of using Arabic numerals, it used a recently-released dataset of Kannada digits. 
+
+I used a Convolutional Neural Networks, optimized it, used data augmentation, among other techiniques. The final accuracy was 0.9896 in the private leaderboard and 0.9886 in the public leaderboard.
+
+The notebook can be found here [Kaggle Notebook](https://www.kaggle.com/ricardoamferreira/tf-keras-cnn-with-kannada-mnist-top-9).
+
+
 ## Kaggle Datasets
 
 ### Students Performance in Exams
