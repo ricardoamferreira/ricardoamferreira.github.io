@@ -1,6 +1,3 @@
-# Data Science Portfolio by Ricardo Ferreira
-
-
 ## University Projects
 
 ### Predicting Adverse Drug Reactions with Machine Learning
