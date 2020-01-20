@@ -14,7 +14,7 @@ The notebook can be found here [GitHub Notebook](https://github.com/ricardoamfer
 
 ### Kannada MNIST
 
-**Position: 109/1214, Top 9%**
+**Position: 109th/1214, Top 9%**
 
 The goal of this competition was to provide a simple extension to the classic MNIST competition. Instead of using Arabic numerals, it used a recently-released dataset of Kannada digits. 
 
