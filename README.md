@@ -14,11 +14,11 @@ The notebook can be found here [GitHub Notebook](https://github.com/ricardoamfer
 
 ### Kannada MNIST
 
-**Placement: 109/1214, Top 9%**
+**Position: 109/1214, Top 9%**
 
 The goal of this competition was to provide a simple extension to the classic MNIST competition. Instead of using Arabic numerals, it used a recently-released dataset of Kannada digits. 
 
-I used a Convolutional Neural Networks, optimized it, used data augmentation, among other techiniques. The final accuracy was 0.9896 in the private leaderboard and 0.9886 in the public leaderboard.
+I used a Convolutional Neural Networks, optimized it, used data augmentation, among other techiniques. The final results were a private score of 0.9896 and a public score of 0.9886 (accuracy).
 
 The notebook can be found here [Kaggle Notebook](https://www.kaggle.com/ricardoamferreira/tf-keras-cnn-with-kannada-mnist-top-9).
 
