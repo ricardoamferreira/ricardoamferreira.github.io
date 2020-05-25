@@ -42,7 +42,6 @@ The notebook can be found here [GitHub Notebook](https://github.com/ricardoamfer
 
 ## \#TidyTuesday
 
-https://github.com/ricardoamferreira/TidyTuesday
+[Repository](https://github.com/ricardoamferreira/TidyTuesday)
 
 Code and figures for my [\#TidyTuesday](https://github.com/rfordatascience/tidytuesday) projects, a weekly data project aimed at the R ecosystem.
-
