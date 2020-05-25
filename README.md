@@ -38,3 +38,11 @@ A quick EDA and statistical analysis in a kaggle dataset contaning marks secured
 
 
 The notebook can be found here [GitHub Notebook](https://github.com/ricardoamferreira/ricardoferreira.github.io/blob/master/Notebooks/students-performance-in-exams-quick-eda.ipynb) or here [nbviewer](https://nbviewer.jupyter.org/github/ricardoamferreira/ricardoamferreira.github.io/blob/master/Notebooks/students-performance-in-exams-quick-eda.ipynb). The kaggle page can be found [here](https://www.kaggle.com/spscientist/students-performance-in-exams).
+
+
+## \#TidyTuesday
+
+https://github.com/ricardoamferreira/TidyTuesday
+
+Code and figures for my [\#TidyTuesday](https://github.com/rfordatascience/tidytuesday) projects, a weekly data project aimed at the R ecosystem.
+
